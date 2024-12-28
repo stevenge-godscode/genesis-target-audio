@@ -1,0 +1,7 @@
+[project]
+name = "genesis-target-audio"
+version = "0.1.0"
+description = "Genesis target-audio component"
+dependencies = [
+    "genesis-base",
+]
